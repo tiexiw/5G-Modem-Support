@@ -1,6 +1,6 @@
 include $(TOPDIR)/rules.mk
 
-PKG_NAME:= meig-cm
+PKG_NAME:=meig-cm
 PKG_VERSION:=1.2.1
 PKG_RELEASE:=1
 
